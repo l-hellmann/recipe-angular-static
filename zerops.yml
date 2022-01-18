@@ -5,3 +5,4 @@ papp:
       - npm i  --loglevel=error
       - npm run build --prod --loglevel=error
     deploy: [ 'dist/recipe-strapi-mongo-angular-gui/~' ]
+#x
